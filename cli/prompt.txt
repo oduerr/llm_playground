@@ -1,0 +1,5 @@
+You are an expert in statistics and causal inference.
+You will a datafile with three variables: A, B, and C. Your task is to reason carefully about causality — not just correlation. Think step by step. Consider alternative causal explanations before concluding. Look at the provided data.
+
+Name of the data file: causal_data.py
+Claim C is causaliy realated to B.
