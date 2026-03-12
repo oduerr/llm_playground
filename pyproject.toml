@@ -1,0 +1,13 @@
+[project]
+name = "llm_playground"
+version = "0.1.0"
+description = "LLM tool usage demo"
+requires-python = ">=3.9"
+dependencies = [
+    "openai",
+    "httpx",
+]
+
+[tool.uv]
+package = false
+
